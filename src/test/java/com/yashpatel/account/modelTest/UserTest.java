@@ -9,8 +9,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.visualpathit.account.model.Role;
-import com.visualpathit.account.model.User;
+import com.yashpatel.account.model.Role;
+import com.yashpatel.account.model.User;
 
 /** {@author imrant} ! */
 public class UserTest {
